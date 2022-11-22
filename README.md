@@ -9,31 +9,51 @@
 <strong>#Frontend --- STACK [ REACT ][ SaSS ]</strong>
 
 1. <strong>Architecture</strong>
-  <br>
+<br>
+<br>
   a. Navbar
-  <br>
+<br>
+<br>
   b. Header
-  <br>
+<br>
+<br>
   c. Main
-  <br>
+<br>
       -Dashboard Pages
       -Login and Register Pages
       -Profile Pages
-  d.Footer =
+<br>
+<br>
+  d.Footer
+<br>
       -Dashboard
+<br>
+<br>
 
 2. <strong>Feature</strong>
+<br>
+<br>
   #X
+<br>
   #X
+<br>
   #X
+<br>
   #X
+<br>
   #X
+<br>
+<br>
 
 3. <strong style="colors:green;">BONUS +</strong>
+<br>
+<br>
   a. Clean Code
+<br>
   b. Responsive Pages
+<br>
   c. #X
-
+<br><br>
 #Backend --- STACK [ NodeJs ][ Express ][ MongoDB ][ API ]
 
 1. <strong>Architecture</strong>
