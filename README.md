@@ -1,7 +1,2 @@
-<style>
-h1 {
-  color:red;
-  }
-</style>
 
-<h1>Test</h1>
+<h1 style="color:red;">Test</h1>
