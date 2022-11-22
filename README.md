@@ -13,8 +13,7 @@
     <hr>
     <br />
     <h3>#Frontend --- STACK [ React ][ SaSS ][ Redux ]</h3>
-
-    <ol>
+<ol>
       <b>Architecture</b>
       <br />
       <br />
@@ -95,7 +94,7 @@
       <br />
     </ol>
     <br /><br />
-    <hr>
+    <hr />
     <h3>#Backend --- STACK [ NodeJs ][ Express ][ MongoDB ][ API ]</h3>
     <ol>
       <b>Architecture</b>
@@ -120,7 +119,7 @@
         <b>4.</b>
         Models
       </ul>
-      <br>
+      <br />
       <ul>
         <b>5.</b>
         Middleware
@@ -165,5 +164,3 @@
         User can see their own data
       </ul>
     </ol>
-    <br>
-    <br>
