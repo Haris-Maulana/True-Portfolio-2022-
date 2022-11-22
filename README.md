@@ -47,6 +47,4 @@
 
 3. <strong style="colors:green;">BONUS +</strong>
   a. Easy to read
-  b. User can see their data#� �T�r�u�e�-�P�o�r�t�f�o�l�i�o�-�2�0�2�2�-�
-�
-�
+  b. User can see their data
