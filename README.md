@@ -1,2 +1,2 @@
 
-<h1 style="color:red;">Test</h1>
+<h1 style="text-align:center;">Test</h1>
