@@ -9,9 +9,13 @@
 <strong>#Frontend --- STACK [ REACT ][ SaSS ]</strong>
 
 1. <strong>Architecture</strong>
+  <br>
   a. Navbar
+  <br>
   b. Header
-  c. Main =
+  <br>
+  c. Main
+  <br>
       -Dashboard Pages
       -Login and Register Pages
       -Profile Pages
